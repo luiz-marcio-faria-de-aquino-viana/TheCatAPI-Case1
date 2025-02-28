@@ -271,3 +271,11 @@ https://cdn2.thecatapi.com/images/p2U4ZXgKL.jpg?api_key=live_r59AnbBhmCQeMk6lx25
 	E-mail: luiz.marcio.viana@gmail.com
 	Telefone: +55-21-99983-7207
 
+# CONTATO
+
+CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS ACADEMIC WORK!
+
+Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
+E-mail: luiz.marcio.viana@gmail.com
+Phone/WhatsApp: +55-21-99983-7207
+
