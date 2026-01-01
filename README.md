@@ -1,11 +1,15 @@
 TheCatAPICase1 1.2.20221031
 
 Copyright(C) 2020-2022 TLMV Consultoria e Sistemas EIRELI
+
 Autor: Luiz Marcio Faria de Aquino Viana, Pos-D.Sc.
+
 E-mail: luiz.marcio.viana@gmail.com
+
 Telefone: +55-21-99983-7207
 
 File: README.md
+
 Data: 31/10/2022
 
 1. INFORMAÇÕES:
