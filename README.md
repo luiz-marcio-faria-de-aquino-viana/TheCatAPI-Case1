@@ -269,13 +269,14 @@ https://cdn2.thecatapi.com/images/p2U4ZXgKL.jpg?api_key=live_r59AnbBhmCQeMk6lx25
 
 	Contato: Luiz Marcio Faria de Aquino Viana, Pos-D.Sc. (Autor)
 	E-mail: luiz.marcio.viana@gmail.com
-	Telefone: +55-21-99983-7207
+	Telefone: +55-21-99983-7207 - WhatsApp: +55-21-95911-5253	
 
 # CONTATO
 
 CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS ACADEMIC WORK!
 
 Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
-E-mail: luiz.marcio.viana@gmail.com
-Phone/WhatsApp: +55-21-99983-7207
 
+E-mail: luiz.marcio.viana@gmail.com
+
+Phone: +55-21-99983-7207 - WhatsApp: +55-21-95911-5253
